@@ -3,5 +3,5 @@
 <h3>Um script simples usando http</h3>
 
 <tr>
-  <td>Usei apenas get e texto puro para html se eu quisesse</td>
+  <th>Usei apenas get e texto puro para html se eu quisesse</th>
 </tr>
