@@ -3,7 +3,9 @@
 <h3>Um script simples usando http</h3>
 <table>
 <tr>
-  <th>Usei apenas get e texto puro para html se eu quisesse<br></th>
-  <th>Meu primeiro repositorio de node js</th>
+  <th>Usei apenas get e texto puro para html se eu quisesse</th>
+  <th>23 abr 2022</th>
 </tr>
 </table>
+
+Meu primeiro repositorio de node js
